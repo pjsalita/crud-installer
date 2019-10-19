@@ -1,4 +1,4 @@
-#PHP CRUD Installer
+# PHP CRUD Installer
 
 A simple CRUD with installer capabilities for the database built with PHP
 
